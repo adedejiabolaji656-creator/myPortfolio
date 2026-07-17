@@ -16,7 +16,7 @@ export const profile = {
 
 export const aboutParagraphs = [
   "I'm a fresh graduate and full-stack developer specializing in the MERN stack — MongoDB, Express.js, React, and Node.js. I love building products that live on the web: clean, responsive interfaces backed by well-architected APIs and databases.",
-  'My toolkit extends beyond the core stack with TypeScript, Next.js, GraphQL, and modern UI libraries like Tailwind CSS. I care deeply about code quality, performance, and thoughtful user experiences — and I ship personal projects constantly to keep sharpening my craft.',
+   'My toolkit extends beyond the core stack with TypeScript, GraphQL, and modern UI libraries like Tailwind CSS. I care deeply about code quality, performance, and thoughtful user experiences — and I ship personal projects constantly to keep sharpening my craft.',
   "Right now I'm looking for my first full-time role where I can contribute to real products, learn from experienced engineers, and grow into a well-rounded software craftsman.",
 ]
 
@@ -65,7 +65,6 @@ export const skillCategories: SkillCategory[] = [
     bar: 'from-cyan-400 to-sky-500',
     skills: [
       { name: 'React', level: 92 },
-      { name: 'Next.js', level: 75 },
       { name: 'TypeScript', level: 80 },
       { name: 'Tailwind CSS', level: 90 },
     ],
@@ -104,7 +103,6 @@ export const marqueeSkills = [
   'React',
   'Node.js',
   'TypeScript',
-  'Next.js',
   'GraphQL',
   'Tailwind CSS',
   'Redux',
